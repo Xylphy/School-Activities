@@ -4,3 +4,6 @@
 [submodule "CS322"]
 	path = CS322
 	url = git@github.com:Xylphy/Interpreter.git
+[submodule "CSIT343"]
+	path = CSIT343
+	url = git@github.com:Xylphy/CSIT343.git
