@@ -1,0 +1,6 @@
+[submodule "Interpreter"]
+	path = Interpreter
+	url = git@github.com:Xylphy/Interpreter.git
+[submodule "CS322"]
+	path = CS322
+	url = git@github.com:Xylphy/Interpreter.git
