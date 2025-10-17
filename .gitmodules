@@ -10,3 +10,6 @@
 [submodule "CS346"]
 	path = CS346
 	url = git@github.com:Xylphy/CS346.git
+[submodule "CS323"]
+	path = CS323
+	url = git@github.com:Xylphy/CS323.git
